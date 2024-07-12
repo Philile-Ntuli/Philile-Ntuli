@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philile Ntuli</h1>
-<h3 align="center">A hardworking, self-motivated software engineer / developer.</h3>
+<h3 align="center">I am a dedicated automation quality assurance trainee with a Bachelor of Science in Information Technology. My passion lies in ensuring software quality through effective automation testing strategies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philile-ntuli&label=Profile%20views&color=0e75b6&style=flat" alt="philile-ntuli" /> </p>
 
